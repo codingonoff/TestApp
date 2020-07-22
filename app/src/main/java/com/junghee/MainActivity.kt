@@ -12,5 +12,8 @@ class MainActivity : AppCompatActivity() {
         button3.setOnClickListener {
             textView2.text = "Say Good By Kotlin"
         }
+        button4.setOnClickListener {
+            textView3.text = "hahaha!!!"
+        }
     }
 }
